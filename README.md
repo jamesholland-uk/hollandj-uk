@@ -1,6 +1,3 @@
-# hollandj.uk
-hollandj.uk
-
 ## Self notes
 - Starting
     - Init with 'hugo new site hollandj -f yaml'
