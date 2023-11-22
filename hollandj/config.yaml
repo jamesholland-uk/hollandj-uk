@@ -1,0 +1,72 @@
+baseURL: "https://hollandj.uk"
+languageCode: en-gb
+title: James Holland
+theme: PaperMod
+paginate: 5
+
+params:
+  env: production # To enable google analytics, opengraph, twitter-cards and schema.
+  title: James Holland
+  description: "Welcome to my site"
+  author: Me
+  defaultTheme: auto # dark, light
+  dateFormat: "02 January 2006"
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: false # Next/prev links at bottom of posts
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  Comments: false
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "whatsapp"]
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+        Welcome to my site.
+
+        You can find out [about me](posts/about-me), the [public stuff I've done](posts/public-stuff), and also find some of my other places with the links below:
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/hollandj"
+    - name: github
+      url: "https://github.com/jamesholland-uk"
+    - name: twitter
+      url: "https://twitter.com/jamesholland_uk"
+    - name: mastodon
+      url: "https://infosec.exchange/@jamesholland"
+    - name: medium
+      url: "https://medium.com/@jamesholland-uk"
+    - name: keybase
+      url: "https://keybase.io/jamoiholland"
+    - name: strava
+      url: "https://www.strava.com/athletes/342060"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: About Me
+                  url: posts/about-me
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 15
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

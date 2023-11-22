@@ -1,0 +1,4 @@
+[submodule "hollandj/themes/PaperMod"]
+	path = hollandj/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+	branch = 7.0
