@@ -35,7 +35,7 @@ I specialise in information and cyber security, with strong skills in networking
 
 I'm also CISSP certified.
 
-You'll find me regularly doing [public speaking and contributing to information and cyber security debate](posts/public-stuff).
+You'll find me regularly doing [public speaking and contributing to information and cyber security debate](/posts/public-stuff).
 
 My current role is with Palo Alto Networks, where [I'm part of the Technoogy Innovation team within the Office of the CPO](https://www.linkedin.com/in/hollandj).
 
