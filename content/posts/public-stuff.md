@@ -33,7 +33,7 @@ cover:
 
 I continue to speak at conferences and events, usually focused on security and/or automation topics. I've previously spoken at:
 
-- [Fusion Meetup (2023)](https://youtu.be/TZ2yZ6W3GMg?t=3099), Birmingham, UK
+- [Fusion Meetup](https://youtu.be/TZ2yZ6W3GMg?t=3099) (2023), Birmingham, UK
 - [Red Hat & Palo Alto Networks Webinar](https://register.paloaltonetworks.com/automateyourpaloaltonetworksfi1) with [a live demo](https://www.youtube.com/watch?v=JKcBP7RbjHQ) (2023), Virtual
 - Jisc Networkshop50 (2022), Nottingham, UK
 - Fuel User Group EMEA (2022), Virtual
