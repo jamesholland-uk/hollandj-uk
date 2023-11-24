@@ -39,12 +39,14 @@ I continue to speak at conferences and events, usually focused on security and/o
 - Fuel User Group EMEA (2022), Virtual
 - Palo Alto Networks Ignite (2021), Virtual
 - [Birmingham (UK) OWASP Meetup](https://www.youtube.com/watch?v=piUx9cacBJk) (2021)</a>, Virtual
+- Palo Alto Networks Ignite (2019), Barcelona, Spain
 - Fusion Meetup (2019), Birmingham, UK
 - Palo Alto Networks Ignite (2019), Austin, TX
 - Cloud Security Summit (2019), London, UK
 - Palo Alto Networks Ignite (2018), Amsterdam, Netherlands
 - Cybersecurity Summit (2018), London, UK
-- Fuel User Group (2018), London, UK
+- Palo Alto Networks Partner Summit (2018), Budapest, Hungary
+- Fuel User Group (2017), London, UK
 - IP Expo (2017), London, UK
 - Infosecurity Europe (2017), London, UK
 - Palo Alto Networks Ignite (2017), Vancouver, Canada
