@@ -37,7 +37,7 @@ I'm also CISSP certified.
 
 You'll find me regularly doing [public speaking and contributing to information and cyber security debate](/posts/public-stuff).
 
-My current role is with Palo Alto Networks, where [I'm part of the Technoogy Innovation team within the Office of the CPO](https://www.linkedin.com/in/hollandj).
+My current role is with Palo Alto Networks, where [I'm part of the Technology Innovation team within the Office of the CPO](https://www.linkedin.com/in/hollandj).
 
 I'm proud of my many years in IT and information security since 2003, including roles in design, architect, build, support, consultancy, training and technical pre-sales.
 
