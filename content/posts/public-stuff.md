@@ -1,9 +1,9 @@
 ---
-title: "Public Speaking & Podcasting"
+title: "Public Speaking, Podcasting & Writing"
 date: 2020-01-01T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["jimmy", "publicspeaking", "podcasting"]
+tags: ["jimmy", "publicspeaking", "podcasting", "writing"]
 author: "Jimmy"
 showToc: true
 TocOpen: false
