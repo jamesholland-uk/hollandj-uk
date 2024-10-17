@@ -61,5 +61,9 @@ I enjoy guesting on podcasts, and have covered security topics as well as mobile
 
 - Full Stack Journey: ["The Future of Security"](https://packetpushers.net/podcast/full-stack-journey-023) (2018)
 - Datanauts: ["Future of Infrastructure Security"](https://packetpushers.net/podcast/datanauts-087-future-infrastructure-security) (2017)
-- [Phones Show Chat](https://stevelitchfield.com/sshow/chat.html): 9 appearances, 2012 - 2017
-- [Whatever Works](https://whateverworks.works): 2 appearances, 2016 - 2017
+- [Phones Show Chat](https://stevelitchfield.com/sshow/chat.html): 10 appearances (2012 - 2024)
+- [Whatever Works](https://whateverworks.works): 2 appearances (2016 - 2017)
+
+Occasionally my words are on the Internet:
+
+- [Inside the NOC used to defend this year's Black Hat](https://www.cybersecuritydive.com/spons/inside-the-noc-used-to-defend-this-years-black-hat/722694) (2024)
