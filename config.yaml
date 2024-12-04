@@ -20,7 +20,7 @@ params:
   ShowRssButtonInSectionTermList: true
   Comments: false
   ShowShareButtons: true
-  ShareButtons: ["linkedin", "twitter", "whatsapp"]
+  ShareButtons: ["linkedin", "bluesky, "whatsapp"]
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -36,6 +36,8 @@ params:
       url: "https://github.com/jamesholland-uk"
     - name: twitter
       url: "https://twitter.com/jamesholland_uk"
+    - name: blueksy
+      url: "https://bsky.app/profile/hollandj.uk"
     - name: mastodon
       url: "https://infosec.exchange/@jamesholland"
     - name: medium
