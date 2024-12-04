@@ -35,7 +35,7 @@ params:
       url: "https://github.com/jamesholland-uk"
     - name: twitter
       url: "https://twitter.com/jamesholland_uk"
-    - name: blueksy
+    - name: bluesky
       url: "https://bsky.app/profile/hollandj.uk"
     - name: mastodon
       url: "https://infosec.exchange/@jamesholland"
