@@ -19,7 +19,6 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   Comments: false
-  ShowShareButtons: true
   ShareButtons: ["linkedin", "bluesky", "whatsapp"]
 
   homeInfoParams:
