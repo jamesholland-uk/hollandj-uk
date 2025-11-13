@@ -2,7 +2,7 @@ baseURL: "https://hollandj.uk"
 languageCode: en-gb
 title: James Holland
 theme: PaperMod
-paginate: 5
+# paginate: 5
 
 params:
   env: production # To enable google analytics, opengraph, twitter-cards and schema.
@@ -58,6 +58,9 @@ languages:
             main:
                 - name: About Me
                   url: posts/about-me
+                  weight: 5
+                - name: Public Stuff
+                  url: posts/public-stuff
                   weight: 5
                 - name: Search
                   url: search/
