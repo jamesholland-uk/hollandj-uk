@@ -47,7 +47,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.120.3' # Renovate can spot and update this easily
+          hugo-version: '0.152.2' # Renovate can spot and update this easily
           extended: true
 
       - name: Setup Pages
