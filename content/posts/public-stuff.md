@@ -57,6 +57,11 @@ I continue to speak at conferences and events, usually focused on security and/o
 - IP Expo (2015), Manchester, UK
 - Holyrood Cyber Security (2015), Edinburgh, UK
 
+I've had blog posts published in a variety of places:
+
+- [Palo Alto Networks Corporate Blog](https://www.paloaltonetworks.com/blog/author/cap-james-holland/)
+- [Medium, including Palo Alto Networks Innovation Blog](https://medium.com/@jamesholland-uk)
+
 I enjoy guesting on podcasts, and have covered security topics as well as mobile and consumer technology. I've previously been on:
 
 - Threat Vector: ["Securing the Unsecurable: Inside the Black Hat NOC and Zero-Hour Resilience"](https://www.paloaltonetworks.com/resources/podcasts/threat-vector-securing-the-unsecurable-inside-the-black-hat-noc-and-zerohour-resilience) (2025)
