@@ -1,5 +1,4 @@
 baseURL: "https://hollandj.uk"
-languageCode: en-gb
 title: James Holland
 theme: PaperMod
 # paginate: 5
@@ -48,7 +47,8 @@ params:
 
 languages:
     en:
-        languageName: "English"
+        label: "English"
+        locale: en-gb
         weight: 1
         taxonomies:
           category: categories

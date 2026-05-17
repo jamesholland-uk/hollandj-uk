@@ -31,6 +31,7 @@ cover:
 
 I continue to speak at conferences and events, usually focused on security and/or automation topics. I've previously spoken at:
 
+- [BSides Birmingham](https://www.bsidesbrum.com) (2026), Birmingham, UK
 - [TechMids](https://conf.techmids.org) (2025), Birmingham, UK
 - OWASP Meetup (2024), Birmingham, UK
 - [School of Code](https://schoolofcode.co.uk) Bootcamp (2024), Virtual
@@ -40,7 +41,7 @@ I continue to speak at conferences and events, usually focused on security and/o
 - Jisc Networkshop50 (2022), Nottingham, UK
 - Fuel User Group EMEA (2022), Virtual
 - Palo Alto Networks Ignite (2021), Virtual
-- [Birmingham (UK) OWASP Meetup](https://www.youtube.com/watch?v=piUx9cacBJk) (2021)</a>, Virtual
+- [Birmingham (UK) OWASP Meetup](https://www.youtube.com/watch?v=piUx9cacBJk) (2021), Virtual
 - Palo Alto Networks Ignite (2019), Barcelona, Spain
 - Fusion Meetup (2019), Birmingham, UK
 - Palo Alto Networks Ignite (2019), Austin, TX
